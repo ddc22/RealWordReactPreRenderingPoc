@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="MedicalAnalyticsPreRenderingPoc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dhis-medical-analytics-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MedicalAnalyticsPreRenderingPoc:war exploded" />
+    </root>
+  </artifact>
+</component>
