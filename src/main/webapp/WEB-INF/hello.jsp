@@ -1,16 +1,12 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: dehan
-  Date: 6/5/16
-  Time: 3:44 PM
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Title</title>
+    <meta charset="UTF-8">
+    <title>Github Battle</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-<h1>CONTROLLER IS WORKING YOOOO!!! ${greeting} WITH VIEW RESOLVER</h1>
+<div id="app"></div>
+<script src="jsx/uilogic.js"></script><
 </body>
 </html>
