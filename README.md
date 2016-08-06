@@ -1,3 +1,6 @@
-# Nashorn - Java 8 SE Playground
+# Prerendering POC - Nashorn & Spring in Holy Matrimony
+>Nashorn | React | Spring | Prerendering
 
-A simple java console app with code snippets of playing around with Java's Nashorn API
+A simple spring-rest and react app of using Java's Nashorn API side by side a Spring Web application. Please read the following [documentation] for more on my GSOC Project Details.
+
+[documentation]: <https://github.com/joemccann/dillinger>
